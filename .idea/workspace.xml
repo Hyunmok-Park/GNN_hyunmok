@@ -447,20 +447,23 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="458" y="202" key="#Notifications/36.23.1644.1027@36.23.1644.1027" timestamp="1581625739799" />
-    <state x="134" y="118" key="CommitChangelistDialog2" timestamp="1583307556279">
-      <screen x="36" y="23" width="1644" height="1027" />
+    <state x="163" y="127" key="CommitChangelistDialog2" timestamp="1583396932078">
+      <screen x="44" y="23" width="2004" height="1129" />
     </state>
     <state x="134" y="118" key="CommitChangelistDialog2/36.23.1644.1027@36.23.1644.1027" timestamp="1583307556279" />
     <state x="140" y="118" key="CommitChangelistDialog2/42.23.1638.1027@42.23.1638.1027" timestamp="1581106087025" />
-    <state x="725" y="437" key="Github.ShareDialog" timestamp="1581667599757">
-      <screen x="36" y="23" width="1644" height="1027" />
+    <state x="163" y="127" key="CommitChangelistDialog2/44.23.2004.1129@44.23.2004.1129" timestamp="1583396932078" />
+    <state x="884" y="478" width="617" height="234" key="Github.ShareDialog" timestamp="1583396860136">
+      <screen x="44" y="23" width="2004" height="1129" />
     </state>
     <state x="725" y="437" key="Github.ShareDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1581667599757" />
     <state x="728" y="437" key="Github.ShareDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579282502205" />
-    <state x="594" y="250" key="Github.UntrackedFilesDialog" timestamp="1579246590171">
-      <screen x="42" y="23" width="1638" height="1027" />
+    <state x="884" y="478" width="617" height="234" key="Github.ShareDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1583396860136" />
+    <state x="719" y="273" key="Github.UntrackedFilesDialog" timestamp="1583396866968">
+      <screen x="44" y="23" width="2004" height="1129" />
     </state>
     <state x="594" y="250" key="Github.UntrackedFilesDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579246590171" />
+    <state x="719" y="273" key="Github.UntrackedFilesDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1583396866968" />
     <state width="1983" height="313" key="GridCell.Tab.0.bottom" timestamp="1583396799507">
       <screen x="44" y="23" width="2004" height="1129" />
     </state>
@@ -497,13 +500,13 @@
       <screen x="42" y="23" width="1638" height="1027" />
     </state>
     <state x="142" y="123" width="1438" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579245059402" />
-    <state x="654" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1583385448153">
+    <state x="654" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1583396809110">
       <screen x="44" y="23" width="2004" height="1129" />
     </state>
     <state x="623" y="376" key="com.intellij.ide.util.TipDialog/0.23.2048.1049@0.23.2048.1049" timestamp="1583384870028" />
     <state x="536" y="369" key="com.intellij.ide.util.TipDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583336491548" />
     <state x="540" y="369" key="com.intellij.ide.util.TipDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1580516823472" />
-    <state x="654" y="403" key="com.intellij.ide.util.TipDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1583385448153" />
+    <state x="654" y="403" key="com.intellij.ide.util.TipDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1583396809110" />
     <state x="650" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580420556843">
       <screen x="42" y="23" width="1638" height="1027" />
     </state>
