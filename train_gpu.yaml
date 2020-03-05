@@ -1,0 +1,71 @@
+apiVersion: batch/v1 # Jobs Default K8 API
+kind: Job # This tells kubernetes what kind of class it is working with
+metadata:
+  name: kijung-gnn # Name of the Job
+spec:
+  parallelism: 35
+  template: # Pod Templete
+    spec:
+      restartPolicy: Never # Options are OnFailure, and Never.
+      hostNetwork: true # This option will allow the pod to use the host network for internet access
+      tolerations: # This toleration allows the pod to be schedule onto gpu-only pod machines, remove this if you are not using gpu
+      - key: "gpu"
+        operator: "Equal"
+        value: "true"
+        effect: "NoSchedule"
+      volumes:
+      - name: mnt
+        hostPath:
+          path: /mnt # Directory on the host machine to be mounted
+      affinity: # Affinity to select certain nodes with 11GB, 12GB, or 24GB memory
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution: # Require nodes to have this label
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: gpu_mem_size # Target label is gpu_mem_size
+                operator: In # Key must have one of the following values
+                values:
+                #- 8GB
+                #- 11GB
+                #- 12GB
+                - 24GB
+                #- 32GB
+      containers: # Container Level
+      - name: kijung-gnn # Container name (Can be set to whatever)
+        image: kijungyoon/gnn:latest # Docker Image hosted on Docker Hub
+        resources:
+          limits:
+            nvidia.com/gpu: 1 # requesting 1 GPUs
+        volumeMounts: # Container reference to volumes define above
+        - name: mnt # Name of the volume define above
+          mountPath: /mnt # Location of where to mount it in the container
+        env: # This section refers to secrets created under the user namespace and set them as environment variables
+        - name: DJ_HOST
+          valueFrom:
+            secretKeyRef:
+              name: datajoint-credentials
+              key: DJ_HOST
+        - name: DJ_USER
+          valueFrom:
+            secretKeyRef:
+              name: datajoint-credentials
+              key: DJ_USER
+        - name: DJ_PASS
+          valueFrom:
+            secretKeyRef:
+              name: datajoint-credentials
+              key: DJ_PASS
+        - name: GITHUB_USERNAME
+          valueFrom:
+            secretKeyRef:
+              name: github-credentials
+              key: GITHUB_USERNAME
+        - name: GITHUB_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: github-credentials
+              key: GITHUB_PASSWORD
+        command: ["/bin/bash"] # Entry point for the container
+        args: ["-c", "git clone https://$(GITHUB_USERNAME):$(GITHUB_PASSWORD)@github.com/kijungyoon/gnn.git \
+	&& cd /gnn \
+	&& python3 -u run_exp.py -c config/msg_gnn.yaml"] # sh commands to clone and run python script

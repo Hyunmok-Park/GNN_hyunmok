@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84460392-6578-425f-93dc-75e355525c15" name="Default Changelist" comment="data added">
+      <change afterPath="$PROJECT_DIR$/MyProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HMC_binary_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/choose_best_from_grid_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/choose_best_from_grid_search.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_001.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_002.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_003.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_004.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_005.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_006.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_007.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_008.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_009.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_010.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_011.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_012.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_013.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_014.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_015.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_016.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_017.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_018.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_019.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_020.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_021.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_022.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_023.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_024.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_025.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_026.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_027.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_028.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_029.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_030.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_031.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_032.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_033.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_034.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_035.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/msg_gnn_036.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/gen_rand_crf_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/gen_test_I.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/gen_test_I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/gen_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/gen_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_aws.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_graph9c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_remove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_test_degree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/tentative_val.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphCut.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/min_cut.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/min_cut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_exp_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_exp_03.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OgAWruk85cyFnHQ3kWnb06sP2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MyProject">
+    <configuration name="MyProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dummy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyProject" />
+        <item itemvalue="Python.dummy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84460392-6578-425f-93dc-75e355525c15" name="Default Changelist" comment="" />
+      <created>1547757952808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547757952808</updated>
+    </task>
+    <task id="LOCAL-00001" summary="data added">
+      <created>1579282674852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579282674852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="data added">
+      <created>1579312557024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579312557024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="data added">
+      <created>1579312619028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579312619028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="data added">
+      <created>1579313173064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579313173064</updated>
+    </task>
+    <task id="LOCAL-00005" summary="data added">
+      <created>1579373634402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579373634402</updated>
+    </task>
+    <task id="LOCAL-00006" summary="data added">
+      <created>1579375203800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579375203800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="data added">
+      <created>1579375248405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579375248405</updated>
+    </task>
+    <task id="LOCAL-00008" summary="data added">
+      <created>1579376313848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579376313848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="data added">
+      <created>1579628656011</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579628656011</updated>
+    </task>
+    <task id="LOCAL-00010" summary="data added">
+      <created>1580169298854</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580169298854</updated>
+    </task>
+    <task id="LOCAL-00011" summary="data added">
+      <created>1580272263458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580272263458</updated>
+    </task>
+    <task id="LOCAL-00012" summary="data added">
+      <created>1580277448722</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580277448722</updated>
+    </task>
+    <task id="LOCAL-00013" summary="data added">
+      <created>1580286362515</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580286362515</updated>
+    </task>
+    <task id="LOCAL-00014" summary="data added">
+      <created>1580622487912</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580622487913</updated>
+    </task>
+    <task id="LOCAL-00015" summary="data added">
+      <created>1580624647380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580624647380</updated>
+    </task>
+    <task id="LOCAL-00016" summary="data added">
+      <created>1580666518616</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580666518616</updated>
+    </task>
+    <task id="LOCAL-00017" summary="data added">
+      <created>1580666745288</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580666745288</updated>
+    </task>
+    <task id="LOCAL-00018" summary="data added">
+      <created>1580667445658</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580667445658</updated>
+    </task>
+    <task id="LOCAL-00019" summary="data added">
+      <created>1580979739694</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580979739694</updated>
+    </task>
+    <task id="LOCAL-00020" summary="data added">
+      <created>1581052351550</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581052351550</updated>
+    </task>
+    <task id="LOCAL-00021" summary="data added">
+      <created>1581106102368</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1581106102368</updated>
+    </task>
+    <task id="LOCAL-00022" summary="data added">
+      <created>1581623126191</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581623126192</updated>
+    </task>
+    <task id="LOCAL-00023" summary="data added">
+      <created>1581624032178</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1581624032178</updated>
+    </task>
+    <task id="LOCAL-00024" summary="data added">
+      <created>1581624994034</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581624994034</updated>
+    </task>
+    <task id="LOCAL-00025" summary="data added">
+      <created>1581632778326</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581632778326</updated>
+    </task>
+    <task id="LOCAL-00026" summary="data added">
+      <created>1581666769720</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581666769720</updated>
+    </task>
+    <task id="LOCAL-00027" summary="data added">
+      <created>1581667244053</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1581667244053</updated>
+    </task>
+    <task id="LOCAL-00028" summary="data added">
+      <created>1581805920584</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1581805920584</updated>
+    </task>
+    <task id="LOCAL-00029" summary="data added">
+      <created>1581807686149</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1581807686149</updated>
+    </task>
+    <task id="LOCAL-00030" summary="data added">
+      <created>1581807957241</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581807957241</updated>
+    </task>
+    <task id="LOCAL-00031" summary="data added">
+      <created>1581839014227</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1581839014227</updated>
+    </task>
+    <task id="LOCAL-00032" summary="data added">
+      <created>1581840620279</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1581840620279</updated>
+    </task>
+    <task id="LOCAL-00033" summary="data added">
+      <created>1581841339152</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1581841339152</updated>
+    </task>
+    <task id="LOCAL-00034" summary="data added">
+      <created>1581842434461</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1581842434461</updated>
+    </task>
+    <task id="LOCAL-00035" summary="data added">
+      <created>1581842489554</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1581842489554</updated>
+    </task>
+    <task id="LOCAL-00036" summary="data added">
+      <created>1583307535509</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1583307535509</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="data added" />
+    <option name="LAST_COMMIT_MESSAGE" value="data added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="202" key="#Notifications" timestamp="1581625739799">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="458" y="202" key="#Notifications/36.23.1644.1027@36.23.1644.1027" timestamp="1581625739799" />
+    <state x="134" y="118" key="CommitChangelistDialog2" timestamp="1583307556279">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="134" y="118" key="CommitChangelistDialog2/36.23.1644.1027@36.23.1644.1027" timestamp="1583307556279" />
+    <state x="140" y="118" key="CommitChangelistDialog2/42.23.1638.1027@42.23.1638.1027" timestamp="1581106087025" />
+    <state x="725" y="437" key="Github.ShareDialog" timestamp="1581667599757">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="725" y="437" key="Github.ShareDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1581667599757" />
+    <state x="728" y="437" key="Github.ShareDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579282502205" />
+    <state x="594" y="250" key="Github.UntrackedFilesDialog" timestamp="1579246590171">
+      <screen x="42" y="23" width="1638" height="1027" />
+    </state>
+    <state x="594" y="250" key="Github.UntrackedFilesDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579246590171" />
+    <state width="1983" height="313" key="GridCell.Tab.0.bottom" timestamp="1583396799507">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state width="1623" height="280" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1582625072912" />
+    <state width="1983" height="313" key="GridCell.Tab.0.bottom/44.23.2004.1129@44.23.2004.1129" timestamp="1583396799507" />
+    <state width="1983" height="313" key="GridCell.Tab.0.center" timestamp="1583396799506">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state width="1623" height="280" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1582625072911" />
+    <state width="1983" height="313" key="GridCell.Tab.0.center/44.23.2004.1129@44.23.2004.1129" timestamp="1583396799506" />
+    <state width="1983" height="313" key="GridCell.Tab.0.left" timestamp="1583396799506">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state width="1623" height="280" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1582625072910" />
+    <state width="1983" height="313" key="GridCell.Tab.0.left/44.23.2004.1129@44.23.2004.1129" timestamp="1583396799506" />
+    <state width="1983" height="313" key="GridCell.Tab.0.right" timestamp="1583396799507">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state width="1623" height="280" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1582625072911" />
+    <state width="1983" height="313" key="GridCell.Tab.0.right/44.23.2004.1129@44.23.2004.1129" timestamp="1583396799507" />
+    <state x="877" y="281" key="SettingsEditor" timestamp="1583385981908">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state x="567" y="221" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1583384961096" />
+    <state x="491" y="217" key="SettingsEditor/36.23.1644.1027@36.23.1644.1027" timestamp="1581667432403" />
+    <state x="438" y="217" key="SettingsEditor/42.23.1638.1027@42.23.1638.1027" timestamp="1579290542998" />
+    <state x="877" y="281" key="SettingsEditor/44.23.2004.1129@44.23.2004.1129" timestamp="1583385981908" />
+    <state x="457" y="276" key="Vcs.Push.Dialog.v2" timestamp="1583307560409">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="457" y="276" key="Vcs.Push.Dialog.v2/36.23.1644.1027@36.23.1644.1027" timestamp="1583307560409" />
+    <state x="461" y="276" key="Vcs.Push.Dialog.v2/42.23.1638.1027@42.23.1638.1027" timestamp="1581106248465" />
+    <state x="142" y="123" width="1438" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579245059402">
+      <screen x="42" y="23" width="1638" height="1027" />
+    </state>
+    <state x="142" y="123" width="1438" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1579245059402" />
+    <state x="654" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1583385448153">
+      <screen x="44" y="23" width="2004" height="1129" />
+    </state>
+    <state x="623" y="376" key="com.intellij.ide.util.TipDialog/0.23.2048.1049@0.23.2048.1049" timestamp="1583384870028" />
+    <state x="536" y="369" key="com.intellij.ide.util.TipDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583336491548" />
+    <state x="540" y="369" key="com.intellij.ide.util.TipDialog/42.23.1638.1027@42.23.1638.1027" timestamp="1580516823472" />
+    <state x="654" y="403" key="com.intellij.ide.util.TipDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1583385448153" />
+    <state x="650" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580420556843">
+      <screen x="42" y="23" width="1638" height="1027" />
+    </state>
+    <state x="650" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/42.23.1638.1027@42.23.1638.1027" timestamp="1580420556843" />
+    <state x="724" y="176" width="667" height="714" key="find.popup" timestamp="1580367149647">
+      <screen x="42" y="23" width="1638" height="1027" />
+    </state>
+    <state x="724" y="176" width="667" height="714" key="find.popup/42.23.1638.1027@42.23.1638.1027" timestamp="1580367149647" />
+    <state x="570" y="335" key="git4idea.merge.GitPullDialog" timestamp="1581626799699">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="570" y="335" key="git4idea.merge.GitPullDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1581626799699" />
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1583161719884">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup/36.23.1644.1027@36.23.1644.1027" timestamp="1583161719884" />
+  </component>
+</project>

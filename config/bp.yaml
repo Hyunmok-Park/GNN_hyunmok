@@ -1,0 +1,25 @@
+---
+exp_name: BP
+exp_dir: exp/bp
+runner: AlgorithmicInferenceRunner
+use_gpu: true
+gpus: [0]
+seed: 1234
+dataset:
+  name: rand_crf
+  loader_name: RandCRFData  
+  data_path: ../data_christmas/
+  split: train #test_I
+model:
+  #name: BeliefPropagation
+  name: BeliefPropagationTorch
+  max_iter: 10
+  kl_order: pq
+  damping: 0.0
+train:
+  batch_size: 1
+  num_workers: 0
+test:  
+  batch_size: 1
+  num_workers: 0
+  test_model: 

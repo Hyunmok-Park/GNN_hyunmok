@@ -1,0 +1,25 @@
+---
+exp_name: TRW
+exp_dir: exp/bp
+runner: AlgorithmicInferenceRunner
+use_gpu: true
+gpus: [0]
+seed: 1234
+dataset:
+  name: rand_crf
+  loader_name: RandCRFData  
+  data_path: data/
+  split: test_VIII
+model:
+  name: TreeReWeightedMessagePassing
+  max_iter: 100
+  damping: 0.0
+  num_trees: 10
+train:
+  batch_size: 1
+  num_workers: 0
+test:  
+  batch_size: 1
+  num_workers: 0
+  KL_order: qp
+  test_model: 
